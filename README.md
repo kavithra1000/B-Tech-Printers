@@ -36,6 +36,6 @@ _Add screenshots or demo GIFs here_
 
 ```bash
 git clone <repo-url>
-cd printer-shop-ecommerce
+cd B-Tech-Printers
 npm install
 npm run dev
